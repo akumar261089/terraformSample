@@ -10,4 +10,4 @@ terraform apply
 ```
 4. Finally to destroy
 ```
-terraform destroy```
+terraform destroy
